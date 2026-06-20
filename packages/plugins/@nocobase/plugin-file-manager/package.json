@@ -41,7 +41,7 @@
     "url-join": "4.0.1"
   },
   "dependencies": {
-    "file-type": "^21.0.0"
+    "file-type": "^21.3.2"
   },
   "peerDependencies": {
     "@nocobase/actions": "2.x",
